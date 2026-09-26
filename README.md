@@ -22,21 +22,21 @@ Ketentuan:
 - Class JajananTradisional: Berfungsi sebagai entitas objek paling spesifik yang mewarisi seluruh data produk dan makanan, serta menambahkan atribut khas daerah (Asal_daerah, Cara_penyajian, Jenis_jajanan).
 
 # ATRIBUT DAN METHOD ATAU FUNGSI
-- Class Produk (Base Class)
+- Class Produk (Base Class) <br>
   Atribut:
   - id_produk (String): Menyimpan kode unik identitas produk (contoh: JT001).
   - nama_produk (String): Menyimpan nama produk umum.
-  - harga (Integer / Double): Menyimpan harga jual produk dalam satuan mata uang.
+  - harga (Integer / Double): Menyimpan harga jual produk dalam satuan mata uang. <br>
   Method:
   - Setter (setIdProduk, setNamaProduk, setHarga): Mengatur atau mengubah nilai atribut id_produk, nama_produk, dan harga.
   - Getter (getIdProduk, getNamaProduk, getHarga): Mengambil/mengembalikan nilai atribut id_produk, nama_produk, dan harga.
 
-- Class ProdukMakanan (class turunan dari Produk)
+- Class ProdukMakanan (class turunan dari Produk) <br>
   Atribut:
   - Mewarisi seluruh atribut dari Class Produk (id_produk, nama_produk, harga).
   - bahan (String): Menyimpan bahan utama pembuat makanan (contoh: Tepung Ketan).
   - rasa (String): Menyimpan cita rasa makanan (contoh: Manis Gurih).
-  - lama_ketahanan (Integer): Menyimpan durasi daya tahan penyimpanan makanan dalam hitungan hari.
+  - lama_ketahanan (Integer): Menyimpan durasi daya tahan penyimpanan makanan dalam hitungan hari. <br>
   Method:
   - Setter (setBahan, setRasa, setLamaKetahanan): Mengatur atau mengubah nilai atribut bahan, rasa, dan lama_ketahanan.
   - Getter (getBahan, getRasa, getLamaKetahanan): Mengambil/mengembalikan nilai atribut bahan, rasa, dan lama_ketahanan.
