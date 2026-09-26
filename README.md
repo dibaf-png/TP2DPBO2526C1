@@ -64,7 +64,7 @@ Pada Program ini terdapat error handling:
   <img width="1277" height="251" alt="menggunakan id yang sudah ada" src="https://github.com/user-attachments/assets/5c9f8524-fe41-4382-8ac2-a15b9af0a862" />
 
 - Pesan error dan meminta inputan kembali jika Nama, Bahan, Rasa, Asal Daerah, Cara Penyajian, dan Jenis Jajanan diisi kosong.
-  <img width="1260" height="442" alt="ketika mengisi 0" src="https://github.com/user-attachments/assets/8c7fd94a-132c-4355-9597-9d8ad4c1c95c" /> </br>
+  <img width="1260" height="442" alt="ketika mengisi 0" src="https://github.com/user-attachments/assets/8c7fd94a-132c-4355-9597-9d8ad4c1c95c" />
   
   <img width="522" height="63" alt="error_nama tidak boleh kosong" src="https://github.com/user-attachments/assets/bbbbdada-2ea3-4f14-9025-0e1389d373f4" /> 
 
@@ -80,7 +80,8 @@ Pada Program ini terdapat error handling:
 
   <img width="409" height="71" alt="jenis_kosong" src="https://github.com/user-attachments/assets/47b56cbc-91e7-4dd1-80a3-5ec5b4fb5953" /> 
 
-- Pesan error dan meminta inputan kembali jika Nama, Bahan, Rasa, Asal Daerah, Cara Penyajian, dan Jenis Jajanan diisi dengan angka bukan huruf. <br>
+- Pesan error dan meminta inputan kembali jika Nama, Bahan, Rasa, Asal Daerah, Cara Penyajian, dan Jenis Jajanan diisi dengan angka bukan huruf.
+  
   <img width="509" height="71" alt="error_nama tidak boleh angka" src="https://github.com/user-attachments/assets/d77dff2f-c956-4aae-b0d1-bd5030b9a6f9" /> 
 
   <img width="518" height="69" alt="rasa tidak boleh angka" src="https://github.com/user-attachments/assets/778b0bab-0936-43eb-bdc3-c8da0dfa547c" /> 
