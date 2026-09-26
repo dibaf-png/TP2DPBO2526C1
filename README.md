@@ -23,13 +23,13 @@ Ketentuan:
 
 # ATRIBUT DAN METHOD ATAU FUNGSI
 - Class Produk (Base Class) <br>
-  Atribut:
-  - id_produk (String): Menyimpan kode unik identitas produk (contoh: JT001).
-  - nama_produk (String): Menyimpan nama produk umum.
-  - harga (Integer / Double): Menyimpan harga jual produk dalam satuan mata uang. <br>
-Method:
-  - Setter (setIdProduk, setNamaProduk, setHarga): Mengatur atau mengubah nilai atribut id_produk, nama_produk, dan harga.
-  - Getter (getIdProduk, getNamaProduk, getHarga): Mengambil/mengembalikan nilai atribut id_produk, nama_produk, dan harga.
+  - Atribut:
+      - id_produk (String): Menyimpan kode unik identitas produk (contoh: JT001).
+      - nama_produk (String): Menyimpan nama produk umum.
+      - harga (Integer / Double): Menyimpan harga jual produk dalam satuan mata uang. <br>
+  - Method:
+     - Setter (setIdProduk, setNamaProduk, setHarga): Mengatur atau mengubah nilai atribut id_produk, nama_produk, dan harga.
+     - Getter (getIdProduk, getNamaProduk, getHarga): Mengambil/mengembalikan nilai atribut id_produk, nama_produk, dan harga.
 
 - Class ProdukMakanan (class turunan dari Produk) <br>
   Atribut:
