@@ -27,7 +27,7 @@ Ketentuan:
   - id_produk (String): Menyimpan kode unik identitas produk (contoh: JT001).
   - nama_produk (String): Menyimpan nama produk umum.
   - harga (Integer / Double): Menyimpan harga jual produk dalam satuan mata uang. <br>
-  Method:
+Method:
   - Setter (setIdProduk, setNamaProduk, setHarga): Mengatur atau mengubah nilai atribut id_produk, nama_produk, dan harga.
   - Getter (getIdProduk, getNamaProduk, getHarga): Mengambil/mengembalikan nilai atribut id_produk, nama_produk, dan harga.
 
@@ -37,7 +37,7 @@ Ketentuan:
   - bahan (String): Menyimpan bahan utama pembuat makanan (contoh: Tepung Ketan).
   - rasa (String): Menyimpan cita rasa makanan (contoh: Manis Gurih).
   - lama_ketahanan (Integer): Menyimpan durasi daya tahan penyimpanan makanan dalam hitungan hari. <br>
-  Method:
+Method:
   - Setter (setBahan, setRasa, setLamaKetahanan): Mengatur atau mengubah nilai atribut bahan, rasa, dan lama_ketahanan.
   - Getter (getBahan, getRasa, getLamaKetahanan): Mengambil/mengembalikan nilai atribut bahan, rasa, dan lama_ketahanan.
 
@@ -47,7 +47,7 @@ Ketentuan:
   - asal_daerah (String): Menyimpan daerah asal kebudayaan jajanan (contoh: Jawa Tengah).
   - cara_penyajian (String): Menyimpan instruksi atau tradisi penyajian makanan (contoh: Tabur Kelapa).
   - jenis_jajanan (String): Menyimpan kategori jajanan (contoh: Jajanan Pasar).
-  - foto / gambar (String - Khusus PHP): Menyimpan nama file atau path dari foto produk yang diunggah.
+  - foto / gambar (String - Khusus PHP): Menyimpan nama file atau path dari foto produk yang diunggah. <br>
   Method:
   - Setter (setAsalDaerah, setCaraPenyajian, setJenisJajanan, setFoto): Mengatur atau mengubah nilai atribut khas kebudayaan lokal dan foto produk.
   - Getter (getAsalDaerah, getCaraPenyajian, getJenisJajanan, getFoto): Mengambil/mengembalikan nilai atribut khas kebudayaan lokal dan foto produk.
