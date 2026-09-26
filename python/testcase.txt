@@ -1,0 +1,41 @@
+TEST CASE PYTHON
+
+TC 1
+Aksi Input Menu : 1
+
+Output:
+- Menampilkan tabel berisi 5 data awal yang telah terdaftar secara rapi:
+
+
+TC 2
+Aksi Input Menu : 2
+
+Input Data      :
+- ID Produk          : JT005
+- Nama Produk        : Kerak Telor
+- Harga              : 25000
+- Bahan Utama        : 7181991
+- Rasa               : 1511718
+- Lama Ketahanan     : dua
+- Asal Daerah        : Jakarta
+- Cara Penyajian     : Polos
+- Jenis Jajanan      : Jajanan Pasar
+
+
+
+TC 3
+Aksi Input Menu : 2
+
+Input Data      :
+- ID Produk          : JT089
+- Nama Produk        : Onde-Onde
+- Harga              : 1000
+- Bahan Utama        : Tepung Ketan
+- Rasa               : Manis
+- Lama Ketahanan     : 2
+- Asal Daerah        : Mojokerto
+- Cara Penyajian     : Polos
+- Jenis Jajanan      : Jajanan Pasar
+
+
+
