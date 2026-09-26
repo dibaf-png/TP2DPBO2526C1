@@ -1,5 +1,5 @@
 # JANJI
-Saya Farah Diba Nur Malinda dengan NIM 2502083 mengerjakan Tugas Praktikum 1 dalam mata kuliah Desain dan Pemrograman 
+Saya Farah Diba Nur Malinda dengan NIM 2502083 mengerjakan Tugas Praktikum 2 dalam mata kuliah Desain dan Pemrograman 
 Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 # Deskripsi
@@ -35,16 +35,16 @@ Ketentuan:
 - Tampil data pada c++: <br>
   <img width="1131" height="321" alt="tampil data" src="https://github.com/user-attachments/assets/74071525-bd1f-4861-af53-cfc9b4b523ad" />
 
-- Tambah data pada java: </br>
+- Tambah data pada java: <br>
   <img width="561" height="291" alt="tambah data" src="https://github.com/user-attachments/assets/c7ac4362-f737-4a7c-a921-a26229693c93" />
 
-- Tampil data pada java: </br>
+- Tampil data pada java: <br>
   <img width="1062" height="324" alt="tampil data" src="https://github.com/user-attachments/assets/650a3d2d-6480-437a-8424-19a726c56c2d" />
 
-- Tambah data pada python: </br>
+- Tambah data pada python: <br>
   <img width="547" height="282" alt="tambah data" src="https://github.com/user-attachments/assets/f48a7b43-5f9d-4a18-b88d-978831a5d3aa" />
 
-- Tampil data pada python: </br>
+- Tampil data pada python: <br>
   <img width="1075" height="322" alt="tampil data" src="https://github.com/user-attachments/assets/138c5b4e-46ee-489e-a86b-cc0b8229cdfb" />
 
 - Tambah data pada php: </br>
@@ -66,20 +66,19 @@ Pada Program ini terdapat error handling:
 - Pesan error dan meminta inputan kembali jika Nama, Bahan, Rasa, Asal Daerah, Cara Penyajian, dan Jenis Jajanan diisi kosong.
   <img width="1260" height="442" alt="ketika mengisi 0" src="https://github.com/user-attachments/assets/8c7fd94a-132c-4355-9597-9d8ad4c1c95c" /> </br>
   
-  <img width="522" height="63" alt="error_nama tidak boleh kosong" src="https://github.com/user-attachments/assets/bbbbdada-2ea3-4f14-9025-0e1389d373f4" /> </br>
+  <img width="522" height="63" alt="error_nama tidak boleh kosong" src="https://github.com/user-attachments/assets/bbbbdada-2ea3-4f14-9025-0e1389d373f4" /> 
 
-  <img width="372" height="61" alt="bahan_kosong" src="https://github.com/user-attachments/assets/7259c53c-e8a6-4cde-9046-131ad340650d" /> </br>
+  <img width="372" height="61" alt="bahan_kosong" src="https://github.com/user-attachments/assets/7259c53c-e8a6-4cde-9046-131ad340650d" /> 
 
-  <img width="402" height="67" alt="asal_kosong" src="https://github.com/user-attachments/assets/d3a34db2-632c-4e2b-b98b-a7cbe8122e20" /> </br>
+  <img width="402" height="67" alt="asal_kosong" src="https://github.com/user-attachments/assets/d3a34db2-632c-4e2b-b98b-a7cbe8122e20" /> 
 
-  <img width="379" height="64" alt="rasa_kosong" src="https://github.com/user-attachments/assets/c35fb0e1-e63e-4e6a-8732-868ff21f3f2b" /> </br>
+  <img width="379" height="64" alt="rasa_kosong" src="https://github.com/user-attachments/assets/c35fb0e1-e63e-4e6a-8732-868ff21f3f2b" />
 
-  <img width="402" height="67" alt="asal_kosong" src="https://github.com/user-attachments/assets/8c7ca38a-5d6b-483f-84e6-4dc0224c07e2" /> </br>
+  <img width="402" height="67" alt="asal_kosong" src="https://github.com/user-attachments/assets/8c7ca38a-5d6b-483f-84e6-4dc0224c07e2" /> 
 
   <img width="433" height="65" alt="penyajian_kosong" src="https://github.com/user-attachments/assets/c1bf29dc-562b-4a94-a9e5-5595e004306c" /> 
 
-  <img width="409" height="71" alt="jenis_kosong" src="https://github.com/user-attachments/assets/47b56cbc-91e7-4dd1-80a3-5ec5b4fb5953" /> </br>
-
+  <img width="409" height="71" alt="jenis_kosong" src="https://github.com/user-attachments/assets/47b56cbc-91e7-4dd1-80a3-5ec5b4fb5953" /> 
 
 - Pesan error dan meminta inputan kembali jika Nama, Bahan, Rasa, Asal Daerah, Cara Penyajian, dan Jenis Jajanan diisi dengan angka bukan huruf. <br>
   <img width="509" height="71" alt="error_nama tidak boleh angka" src="https://github.com/user-attachments/assets/d77dff2f-c956-4aae-b0d1-bd5030b9a6f9" /> 
