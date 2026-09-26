@@ -16,7 +16,7 @@ Ketentuan:
 - Pada php ditambahkan atribut gambar.
 
 # DIAGRAM
-.<img width="395" height="734" alt="diagram2_ drawio" src="https://github.com/user-attachments/assets/1bbca46b-d04a-45c7-a560-2378c08fac3a" /> <br>
+<img width="395" height="734" alt="diagram2_ drawio" src="https://github.com/user-attachments/assets/1bbca46b-d04a-45c7-a560-2378c08fac3a" /> <br>
 - Class Produk: Berfungsi sebagai induk utama (base class) untuk menampung atribut umum (Id, Nama, Harga) yang dimiliki oleh seluruh entitas produk agar tidak terjadi pengulangan kode (code redundancy).
 - Class ProdukMakanan: Berfungsi sebagai spesialisasi tingkat pertama yang mewarisi data umum produk sekaligus menambahkan atribut khusus konsumsi (Bahan, Rasa, Lama_ketahanan).
 - Class JajananTradisional: Berfungsi sebagai entitas objek paling spesifik yang mewarisi seluruh data produk dan makanan, serta menambahkan atribut khas daerah (Asal_daerah, Cara_penyajian, Jenis_jajanan).
@@ -30,28 +30,28 @@ Ketentuan:
 
 # DOKUMENTASI OUPUT
 - Tambah data pada c++: <br>
-<img width="1124" height="291" alt="tambah data" src="https://github.com/user-attachments/assets/ba6e1fe6-1e32-4349-b94f-62dc42e64ce3" />
+  <img width="1124" height="291" alt="tambah data" src="https://github.com/user-attachments/assets/ba6e1fe6-1e32-4349-b94f-62dc42e64ce3" />
 
 - Tampil data pada c++: <br>
-<img width="1131" height="321" alt="tampil data" src="https://github.com/user-attachments/assets/74071525-bd1f-4861-af53-cfc9b4b523ad" />
+  <img width="1131" height="321" alt="tampil data" src="https://github.com/user-attachments/assets/74071525-bd1f-4861-af53-cfc9b4b523ad" />
 
 - Tambah data pada java: </br>
-<img width="561" height="291" alt="tambah data" src="https://github.com/user-attachments/assets/c7ac4362-f737-4a7c-a921-a26229693c93" />
+  <img width="561" height="291" alt="tambah data" src="https://github.com/user-attachments/assets/c7ac4362-f737-4a7c-a921-a26229693c93" />
 
 - Tampil data pada java: </br>
-<img width="1062" height="324" alt="tampil data" src="https://github.com/user-attachments/assets/650a3d2d-6480-437a-8424-19a726c56c2d" />
+  <img width="1062" height="324" alt="tampil data" src="https://github.com/user-attachments/assets/650a3d2d-6480-437a-8424-19a726c56c2d" />
 
 - Tambah data pada python: </br>
-<img width="547" height="282" alt="tambah data" src="https://github.com/user-attachments/assets/f48a7b43-5f9d-4a18-b88d-978831a5d3aa" />
+  <img width="547" height="282" alt="tambah data" src="https://github.com/user-attachments/assets/f48a7b43-5f9d-4a18-b88d-978831a5d3aa" />
 
 - Tampil data pada python: </br>
-<img width="1075" height="322" alt="tampil data" src="https://github.com/user-attachments/assets/138c5b4e-46ee-489e-a86b-cc0b8229cdfb" />
+  <img width="1075" height="322" alt="tampil data" src="https://github.com/user-attachments/assets/138c5b4e-46ee-489e-a86b-cc0b8229cdfb" />
 
 - Tambah data pada php: </br>
-<img width="839" height="268" alt="tambah data" src="https://github.com/user-attachments/assets/338e5b56-4343-4995-884a-8729ede42bde" />
+  <img width="839" height="268" alt="tambah data" src="https://github.com/user-attachments/assets/338e5b56-4343-4995-884a-8729ede42bde" />
 
 - Tampil data pada php: </br>
-<img width="694" height="565" alt="tampil data" src="https://github.com/user-attachments/assets/60b1747e-6117-432c-b105-4cf3a7cf8f0d" />
+  <img width="694" height="565" alt="tampil data" src="https://github.com/user-attachments/assets/60b1747e-6117-432c-b105-4cf3a7cf8f0d" />
 
 # ERROR HANDLING
 Pada Program ini terdapat error handling:
