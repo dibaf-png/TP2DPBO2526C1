@@ -29,7 +29,7 @@ Ketentuan:
 - Khusus pada implementasi PHP, user dapat mengunggah file gambar/foto untuk mengisi atribut foto jajanan.
 
 # DOKUMENTASI OUPUT
-- Tambah data pada c++: </br>
+- Tambah data pada c++: <br>
 <img width="1124" height="291" alt="tambah data" src="https://github.com/user-attachments/assets/ba6e1fe6-1e32-4349-b94f-62dc42e64ce3" />
 
 - Tampil data pada c++: <br>
@@ -61,26 +61,37 @@ Pada Program ini terdapat error handling:
 - Pesan error dan meminta inputan kembali jika ID Produk sudah digunakan.
   <img width="591" height="72" alt="error_id sudah digunakan" src="https://github.com/user-attachments/assets/5c044999-ba3c-49bf-8c35-d7633a224ac3" />
 
-<img width="1277" height="251" alt="menggunakan id yang sudah ada" src="https://github.com/user-attachments/assets/5c9f8524-fe41-4382-8ac2-a15b9af0a862" />
+  <img width="1277" height="251" alt="menggunakan id yang sudah ada" src="https://github.com/user-attachments/assets/5c9f8524-fe41-4382-8ac2-a15b9af0a862" />
 
 - Pesan error dan meminta inputan kembali jika Nama, Bahan, Rasa, Asal Daerah, Cara Penyajian, dan Jenis Jajanan diisi kosong.
   <img width="1260" height="442" alt="ketika mengisi 0" src="https://github.com/user-attachments/assets/8c7fd94a-132c-4355-9597-9d8ad4c1c95c" /> </br>
   
-<img width="522" height="63" alt="error_nama tidak boleh kosong" src="https://github.com/user-attachments/assets/bbbbdada-2ea3-4f14-9025-0e1389d373f4" /> </br>
-<img width="372" height="61" alt="bahan_kosong" src="https://github.com/user-attachments/assets/7259c53c-e8a6-4cde-9046-131ad340650d" /> </br>
-<img width="402" height="67" alt="asal_kosong" src="https://github.com/user-attachments/assets/d3a34db2-632c-4e2b-b98b-a7cbe8122e20" /> </br>
-<img width="379" height="64" alt="rasa_kosong" src="https://github.com/user-attachments/assets/c35fb0e1-e63e-4e6a-8732-868ff21f3f2b" /> </br>
-<img width="402" height="67" alt="asal_kosong" src="https://github.com/user-attachments/assets/8c7ca38a-5d6b-483f-84e6-4dc0224c07e2" /> </br>
-<img width="433" height="65" alt="penyajian_kosong" src="https://github.com/user-attachments/assets/c1bf29dc-562b-4a94-a9e5-5595e004306c" /> </br>
-<img width="409" height="71" alt="jenis_kosong" src="https://github.com/user-attachments/assets/47b56cbc-91e7-4dd1-80a3-5ec5b4fb5953" /> </br>
+  <img width="522" height="63" alt="error_nama tidak boleh kosong" src="https://github.com/user-attachments/assets/bbbbdada-2ea3-4f14-9025-0e1389d373f4" /> </br>
+
+  <img width="372" height="61" alt="bahan_kosong" src="https://github.com/user-attachments/assets/7259c53c-e8a6-4cde-9046-131ad340650d" /> </br>
+
+  <img width="402" height="67" alt="asal_kosong" src="https://github.com/user-attachments/assets/d3a34db2-632c-4e2b-b98b-a7cbe8122e20" /> </br>
+
+  <img width="379" height="64" alt="rasa_kosong" src="https://github.com/user-attachments/assets/c35fb0e1-e63e-4e6a-8732-868ff21f3f2b" /> </br>
+
+  <img width="402" height="67" alt="asal_kosong" src="https://github.com/user-attachments/assets/8c7ca38a-5d6b-483f-84e6-4dc0224c07e2" /> </br>
+
+  <img width="433" height="65" alt="penyajian_kosong" src="https://github.com/user-attachments/assets/c1bf29dc-562b-4a94-a9e5-5595e004306c" /> </br>
+
+  <img width="409" height="71" alt="jenis_kosong" src="https://github.com/user-attachments/assets/47b56cbc-91e7-4dd1-80a3-5ec5b4fb5953" /> </br>
 
 
 - Pesan error dan meminta inputan kembali jika Nama, Bahan, Rasa, Asal Daerah, Cara Penyajian, dan Jenis Jajanan diisi dengan angka bukan huruf.
   <img width="509" height="71" alt="error_nama tidak boleh angka" src="https://github.com/user-attachments/assets/d77dff2f-c956-4aae-b0d1-bd5030b9a6f9" /> <br>
+
   <img width="518" height="69" alt="rasa tidak boleh angka" src="https://github.com/user-attachments/assets/778b0bab-0936-43eb-bdc3-c8da0dfa547c" /> </br>
+
   <img width="509" height="57" alt="asal tidak boleh angka" src="https://github.com/user-attachments/assets/2bc66fe4-2ac1-4985-9510-674ff59c3319" /> </br>
+
   <img width="500" height="74" alt="bahan tidak boleh angka" src="https://github.com/user-attachments/assets/0a3ecaa3-e510-417a-83ac-22e11494f833" /> </br>
+
   <img width="518" height="69" alt="rasa tidak boleh angka" src="https://github.com/user-attachments/assets/d7e57b64-79c9-4cea-a223-cec8146ac164" /> </br>
+
   <img width="565" height="65" alt="jenis jajanan tidak boleh angka" src="https://github.com/user-attachments/assets/c621c4a4-f9bc-47c3-838a-4b2aa1ca1203" /> </br>
 
 - Pesan error dan meminta inputan kembali jika Harga dan Lama Ketahanan diisi dengan huruf.
