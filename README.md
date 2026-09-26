@@ -32,25 +32,25 @@ Ketentuan:
 - Tambah data pada c++: </br>
 <img width="1124" height="291" alt="tambah data" src="https://github.com/user-attachments/assets/ba6e1fe6-1e32-4349-b94f-62dc42e64ce3" />
 
--Tampil data pada c++: <br>
+- Tampil data pada c++: <br>
 <img width="1131" height="321" alt="tampil data" src="https://github.com/user-attachments/assets/74071525-bd1f-4861-af53-cfc9b4b523ad" />
 
--Tambah data pada java: </br>
+- Tambah data pada java: </br>
 <img width="561" height="291" alt="tambah data" src="https://github.com/user-attachments/assets/c7ac4362-f737-4a7c-a921-a26229693c93" />
 
--Tampil data pada java: </br>
+- Tampil data pada java: </br>
 <img width="1062" height="324" alt="tampil data" src="https://github.com/user-attachments/assets/650a3d2d-6480-437a-8424-19a726c56c2d" />
 
--Tambah data pada python: </br>
+- Tambah data pada python: </br>
 <img width="547" height="282" alt="tambah data" src="https://github.com/user-attachments/assets/f48a7b43-5f9d-4a18-b88d-978831a5d3aa" />
 
--Tampil data pada python: </br>
+- Tampil data pada python: </br>
 <img width="1075" height="322" alt="tampil data" src="https://github.com/user-attachments/assets/138c5b4e-46ee-489e-a86b-cc0b8229cdfb" />
 
--Tambah data pada php: </br>
+- Tambah data pada php: </br>
 <img width="839" height="268" alt="tambah data" src="https://github.com/user-attachments/assets/338e5b56-4343-4995-884a-8729ede42bde" />
 
--Tampil data pada php: </br>
+- Tampil data pada php: </br>
 <img width="694" height="565" alt="tampil data" src="https://github.com/user-attachments/assets/60b1747e-6117-432c-b105-4cf3a7cf8f0d" />
 
 # ERROR HANDLING
@@ -64,31 +64,31 @@ Pada Program ini terdapat error handling:
 <img width="1277" height="251" alt="menggunakan id yang sudah ada" src="https://github.com/user-attachments/assets/5c9f8524-fe41-4382-8ac2-a15b9af0a862" />
 
 - Pesan error dan meminta inputan kembali jika Nama, Bahan, Rasa, Asal Daerah, Cara Penyajian, dan Jenis Jajanan diisi kosong.
-<img width="1260" height="442" alt="ketika mengisi 0" src="https://github.com/user-attachments/assets/8c7fd94a-132c-4355-9597-9d8ad4c1c95c" />
-<img width="522" height="63" alt="error_nama tidak boleh kosong" src="https://github.com/user-attachments/assets/bbbbdada-2ea3-4f14-9025-0e1389d373f4" />
-<img width="372" height="61" alt="bahan_kosong" src="https://github.com/user-attachments/assets/7259c53c-e8a6-4cde-9046-131ad340650d" />
-<img width="402" height="67" alt="asal_kosong" src="https://github.com/user-attachments/assets/d3a34db2-632c-4e2b-b98b-a7cbe8122e20" />
-<img width="379" height="64" alt="rasa_kosong" src="https://github.com/user-attachments/assets/c35fb0e1-e63e-4e6a-8732-868ff21f3f2b" />
-<img width="402" height="67" alt="asal_kosong" src="https://github.com/user-attachments/assets/8c7ca38a-5d6b-483f-84e6-4dc0224c07e2" />
-<img width="433" height="65" alt="penyajian_kosong" src="https://github.com/user-attachments/assets/c1bf29dc-562b-4a94-a9e5-5595e004306c" />
-<img width="409" height="71" alt="jenis_kosong" src="https://github.com/user-attachments/assets/47b56cbc-91e7-4dd1-80a3-5ec5b4fb5953" />
+<img width="1260" height="442" alt="ketika mengisi 0" src="https://github.com/user-attachments/assets/8c7fd94a-132c-4355-9597-9d8ad4c1c95c" /> </br>
+<img width="522" height="63" alt="error_nama tidak boleh kosong" src="https://github.com/user-attachments/assets/bbbbdada-2ea3-4f14-9025-0e1389d373f4" /> </br>
+<img width="372" height="61" alt="bahan_kosong" src="https://github.com/user-attachments/assets/7259c53c-e8a6-4cde-9046-131ad340650d" /> </br>
+<img width="402" height="67" alt="asal_kosong" src="https://github.com/user-attachments/assets/d3a34db2-632c-4e2b-b98b-a7cbe8122e20" /> </br>
+<img width="379" height="64" alt="rasa_kosong" src="https://github.com/user-attachments/assets/c35fb0e1-e63e-4e6a-8732-868ff21f3f2b" /> </br>
+<img width="402" height="67" alt="asal_kosong" src="https://github.com/user-attachments/assets/8c7ca38a-5d6b-483f-84e6-4dc0224c07e2" /> </br>
+<img width="433" height="65" alt="penyajian_kosong" src="https://github.com/user-attachments/assets/c1bf29dc-562b-4a94-a9e5-5595e004306c" /> </br>
+<img width="409" height="71" alt="jenis_kosong" src="https://github.com/user-attachments/assets/47b56cbc-91e7-4dd1-80a3-5ec5b4fb5953" /> </br>
 
 
 - Pesan error dan meminta inputan kembali jika Nama, Bahan, Rasa, Asal Daerah, Cara Penyajian, dan Jenis Jajanan diisi dengan angka bukan huruf.
-<img width="509" height="71" alt="error_nama tidak boleh angka" src="https://github.com/user-attachments/assets/d77dff2f-c956-4aae-b0d1-bd5030b9a6f9" />
-<img width="518" height="69" alt="rasa tidak boleh angka" src="https://github.com/user-attachments/assets/778b0bab-0936-43eb-bdc3-c8da0dfa547c" />
-<img width="509" height="57" alt="asal tidak boleh angka" src="https://github.com/user-attachments/assets/2bc66fe4-2ac1-4985-9510-674ff59c3319" />
-<img width="500" height="74" alt="bahan tidak boleh angka" src="https://github.com/user-attachments/assets/0a3ecaa3-e510-417a-83ac-22e11494f833" />
-<img width="518" height="69" alt="rasa tidak boleh angka" src="https://github.com/user-attachments/assets/d7e57b64-79c9-4cea-a223-cec8146ac164" />
-<img width="565" height="65" alt="jenis jajanan tidak boleh angka" src="https://github.com/user-attachments/assets/c621c4a4-f9bc-47c3-838a-4b2aa1ca1203" />
+<img width="509" height="71" alt="error_nama tidak boleh angka" src="https://github.com/user-attachments/assets/d77dff2f-c956-4aae-b0d1-bd5030b9a6f9" /> <br>
+<img width="518" height="69" alt="rasa tidak boleh angka" src="https://github.com/user-attachments/assets/778b0bab-0936-43eb-bdc3-c8da0dfa547c" /> </br>
+<img width="509" height="57" alt="asal tidak boleh angka" src="https://github.com/user-attachments/assets/2bc66fe4-2ac1-4985-9510-674ff59c3319" /> </br>
+<img width="500" height="74" alt="bahan tidak boleh angka" src="https://github.com/user-attachments/assets/0a3ecaa3-e510-417a-83ac-22e11494f833" /> </br>
+<img width="518" height="69" alt="rasa tidak boleh angka" src="https://github.com/user-attachments/assets/d7e57b64-79c9-4cea-a223-cec8146ac164" /> </br>
+<img width="565" height="65" alt="jenis jajanan tidak boleh angka" src="https://github.com/user-attachments/assets/c621c4a4-f9bc-47c3-838a-4b2aa1ca1203" /> </br>
 
 - Pesan error dan meminta inputan kembali jika Harga dan Lama Ketahanan diisi dengan huruf.
-<img width="437" height="67" alt="harga tidak boleh huruf" src="https://github.com/user-attachments/assets/e53068d8-a948-4483-b0e8-d57d3e13a094" />
-<img width="472" height="79" alt="lama ketahanan tidak boleh huruf" src="https://github.com/user-attachments/assets/d2d96770-99be-4c5e-991e-575928503820" />
+<img width="437" height="67" alt="harga tidak boleh huruf" src="https://github.com/user-attachments/assets/e53068d8-a948-4483-b0e8-d57d3e13a094" /> </br>
+<img width="472" height="79" alt="lama ketahanan tidak boleh huruf" src="https://github.com/user-attachments/assets/d2d96770-99be-4c5e-991e-575928503820" /> </br>
 
 - Pesan error dan meminta inputan kembali jika Harga dan Lama Ketahanan diisi dengan kurang atau sama dengan 0.
-<img width="543" height="65" alt="error_tidak boleh minus atau 0" src="https://github.com/user-attachments/assets/ed5efcc9-0568-4482-9eae-7b265d0c52c8" />
-<img width="580" height="67" alt="ketahanan tidak boleh minus atau 0" src="https://github.com/user-attachments/assets/c93196bb-5331-4b80-b9c2-b538063cb18f" />
+<img width="543" height="65" alt="error_tidak boleh minus atau 0" src="https://github.com/user-attachments/assets/ed5efcc9-0568-4482-9eae-7b265d0c52c8" /> </br>
+<img width="580" height="67" alt="ketahanan tidak boleh minus atau 0" src="https://github.com/user-attachments/assets/c93196bb-5331-4b80-b9c2-b538063cb18f" /> </br>
 
 - Pesan error dan meminta inputan kembali jika inputan pilihan menu tidak berupa angka.
 <img width="459" height="139" alt="tidak boleh input pilihan bukan angka" src="https://github.com/user-attachments/assets/00ddc3fb-f3d3-443d-8d35-26d409e4d113" />
