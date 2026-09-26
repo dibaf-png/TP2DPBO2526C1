@@ -101,6 +101,7 @@ Pada Program ini terdapat error handling:
   <img width="472" height="79" alt="lama ketahanan tidak boleh huruf" src="https://github.com/user-attachments/assets/d2d96770-99be-4c5e-991e-575928503820" />
 
 - Pesan error dan meminta inputan kembali jika Harga dan Lama Ketahanan diisi dengan kurang atau sama dengan 0.
+  
   <img width="543" height="65" alt="error_tidak boleh minus atau 0" src="https://github.com/user-attachments/assets/ed5efcc9-0568-4482-9eae-7b265d0c52c8" /> 
   <img width="580" height="67" alt="ketahanan tidak boleh minus atau 0" src="https://github.com/user-attachments/assets/c93196bb-5331-4b80-b9c2-b538063cb18f" /> 
 
