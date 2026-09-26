@@ -1,0 +1,38 @@
+TEST CASE CPP
+
+TC 1
+Aksi Input Menu : 1
+
+Output:
+- Menampilkan tabel berisi 5 data awal yang telah terdaftar secara rapi:
+
+
+TC 2
+Aksi Input Menu : 2
+
+Input Data      :
+- ID Produk          : JT006
+- Nama Produk        : Klepon
+- Harga              : 5000
+- Bahan Utama        : Tepung Ketan
+- Rasa               : Manis Gurih
+- Lama Ketahanan     : 2
+- Asal Daerah        : Jawa Tengah
+- Cara Penyajian     : Tabur Kelapa
+- Jenis Jajanan      : Jajanan Pasar
+
+TC 3
+Input Data      :
+- ID Produk          : JT001
+- Nama Produk        : 711919999
+- Harga              : 0
+- Bahan Utama        : 819199
+- Rasa               : 00
+- Lama Ketahanan     : -1
+- Asal Daerah        : 9099
+- Cara Penyajian     : 88888
+- Jenis Jajanan      : 01001
+
+
+
+
