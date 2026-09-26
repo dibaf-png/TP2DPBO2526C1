@@ -21,7 +21,38 @@ Ketentuan:
 - Class ProdukMakanan: Berfungsi sebagai spesialisasi tingkat pertama yang mewarisi data umum produk sekaligus menambahkan atribut khusus konsumsi (Bahan, Rasa, Lama_ketahanan).
 - Class JajananTradisional: Berfungsi sebagai entitas objek paling spesifik yang mewarisi seluruh data produk dan makanan, serta menambahkan atribut khas daerah (Asal_daerah, Cara_penyajian, Jenis_jajanan).
 
-# ALUR DIAGRAM
+# ATRIBUT DAN METHOD ATAU FUNGSI
+- Class Produk (Base Class)
+  Atribut:
+  - id_produk (String): Menyimpan kode unik identitas produk (contoh: JT001).
+  - nama_produk (String): Menyimpan nama produk umum.
+  - harga (Integer / Double): Menyimpan harga jual produk dalam satuan mata uang.
+  Method:
+  - Setter (setIdProduk, setNamaProduk, setHarga): Mengatur atau mengubah nilai atribut id_produk, nama_produk, dan harga.
+  - Getter (getIdProduk, getNamaProduk, getHarga): Mengambil/mengembalikan nilai atribut id_produk, nama_produk, dan harga.
+
+- Class ProdukMakanan (class turunan dari Produk)
+  Atribut:
+  - Mewarisi seluruh atribut dari Class Produk (id_produk, nama_produk, harga).
+  - bahan (String): Menyimpan bahan utama pembuat makanan (contoh: Tepung Ketan).
+  - rasa (String): Menyimpan cita rasa makanan (contoh: Manis Gurih).
+  - lama_ketahanan (Integer): Menyimpan durasi daya tahan penyimpanan makanan dalam hitungan hari.
+  Method:
+  - Setter (setBahan, setRasa, setLamaKetahanan): Mengatur atau mengubah nilai atribut bahan, rasa, dan lama_ketahanan.
+  - Getter (getBahan, getRasa, getLamaKetahanan): Mengambil/mengembalikan nilai atribut bahan, rasa, dan lama_ketahanan.
+
+- Class JajananTradisional (class turunan dari ProdukMakanan)
+  Atribut:
+  - Mewarisi seluruh atribut dari Class ProdukMakanan dan Produk (id_produk, nama_produk, harga, bahan, rasa, lama_ketahanan).
+  - asal_daerah (String): Menyimpan daerah asal kebudayaan jajanan (contoh: Jawa Tengah).
+  - cara_penyajian (String): Menyimpan instruksi atau tradisi penyajian makanan (contoh: Tabur Kelapa).
+  - jenis_jajanan (String): Menyimpan kategori jajanan (contoh: Jajanan Pasar).
+  - foto / gambar (String - Khusus PHP): Menyimpan nama file atau path dari foto produk yang diunggah.
+  Method:
+  - Setter (setAsalDaerah, setCaraPenyajian, setJenisJajanan, setFoto): Mengatur atau mengubah nilai atribut khas kebudayaan lokal dan foto produk.
+  - Getter (getAsalDaerah, getCaraPenyajian, getJenisJajanan, getFoto): Mengambil/mengembalikan nilai atribut khas kebudayaan lokal dan foto produk.
+
+# ALUR PROGRAM
 - Program secara otomatis menginisialisasi 5 data awal/default saat pertama kali dijalankan.
 - User dapat memilih menu utama untuk menampilkan seluruh daftar data atau menambahkan data jajanan baru.
 - Sistem menampilkan seluruh data jajanan tradisional secara presisi menggunakan format tabel dinamis.
